@@ -1,5 +1,5 @@
 {
-  "sms_delay": 1,
+  "sms_delay": 1.0,
   "loop_delay": 60.0,
   "enable_sms": true,
   "enable_call": false

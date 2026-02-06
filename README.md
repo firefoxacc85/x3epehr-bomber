@@ -110,8 +110,6 @@ When using, modifying, or distributing this software, you **MUST**:
 4. **State any modifications** made to the files
 5. **Include attribution** in any user interface or documentation where the software is used
 
-### 🔗 Required Attribution Text
-
 ---
 
 ## 📈 SEO Keywords (included)

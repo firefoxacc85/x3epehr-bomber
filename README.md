@@ -41,7 +41,7 @@ blare-bomber/
 ├── resources_rc.py      # Compiled UI resources (icons / images)
 ├── main.py              # Application bootstrap
 ├── requirements.txt     # Python dependency list
-└── LICENSE              # MIT License
+└── LICENSE              # Apache License 2.0
 ```
 
 ---

@@ -1,14 +1,14 @@
-# blare-bomber
+# x3epehr-bomber
 
-**blare-bomber** — A powerful **SMS Bomber** and **اسمس بمبر** tool with a clean Python GUI and extendable backend controllers for automated message testing and development.
+**x3epehr-bomber** — A powerful **SMS Bomber** and **اسمس بمبر** tool with a clean Python GUI and extendable backend controllers for automated message testing and development.
 
 > ⚠️ **Important:** This repository is intended for *authorized testing, security research, and educational purposes only*. Misuse (e.g., spamming or attacking systems without consent) may be illegal and unethical.
 
 ---
 
-## 📌 What is blare-bomber?
+## 📌 What is x3epehr-bomber?
 
-**blare-bomber** is a Python-based **SMS Bomber tool** and **اسمس بمبر** application with:
+**x3epehr-bomber** is a Python-based **SMS Bomber tool** and **اسمس بمبر** application with:
 
 * ✔️ Graphical User Interface (GUI) for easy operation
 * ✔️ Extensible API integrations
@@ -33,7 +33,7 @@ This project helps developers and security professionals simulate large-scale me
 ## 📁 Project Structure
 
 ```
-blare-bomber/
+x3epehr-bomber/
 ├── apis/                # APIs support for different messaging endpoints
 ├── controllers/         # Logic controllers for message dispatching
 ├── data/                # Target storage, logs, configs
@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Running blare-bomber
+## ▶️ Running x3epehr-bomber
 
 Launch the SMS Bomber / اسمس بمبر interface:
 
@@ -74,7 +74,7 @@ Follow on-screen instructions to:
 
 ## 📌 Use Cases
 
-**blare-bomber** may be used for:
+**x3epehr-bomber** may be used for:
 
 * 🧪 Notification service load testing
 * 🛠️ Backend messaging workflow validation
@@ -97,7 +97,7 @@ Misuse could lead to legal consequences.
 
 ## 📜 License
 
-Copyright © 2026 **Blare** ([GitHub: @Bllare](https://github.com/Bllare))
+Copyright © 2026 **x3epehr** ([GitHub: @x3epehr](https://github.com/x3epehr))
 
 Licensed under the **Apache License 2.0** - see the [LICENSE](LICENSE) file for details.
 
@@ -106,7 +106,7 @@ When using, modifying, or distributing this software, you **MUST**:
 
 1. **Keep all copyright notices** intact
 2. **Include a copy** of the Apache License 2.0
-3. **Provide clear attribution** to **Blare (@Bllare)**
+3. **Provide clear attribution** to **x3epehr (@x3epehr)**
 4. **State any modifications** made to the files
 5. **Include attribution** in any user interface or documentation where the software is used
 
